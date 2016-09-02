@@ -23,7 +23,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/209/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/RTG%20HD.png",RTG HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/210/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%A2%D0%92%20HD.png",НТВ HD
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%A2%D0%92%20HD.png",НТВ
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/213/index.m3u8
 #EXTINF:0,Nat Geo Wild HD
@@ -59,7 +59,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/232/index.m3u8
 #EXTINF:0,Travel Channel HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/233/index.m3u8
-#EXTINF:0 tvg-name="Кинопремьера",Кинопремьера HD
+#EXTINF:0,Кинопремьера
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/224/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/TB%201000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",TV1000 Русское кино
