@@ -110,7 +110,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/127/index.m3u8
 #EXTINF:0,РЕН ТВ
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/128/index.m3u8
-#EXTINF:0,Первый HD
+#EXTINF:0 tvg-logo="http://toplogos.ru/images/thumbs/preview-logo-perviy-kanal-hd.png",Первый HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/204/index.m3u8
 #EXTINF:0,TV1000 Premium HD
