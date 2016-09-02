@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-link="http://www.scansat.info/logo/TB%201000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",TB 1000 Русское кино
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/TB%201000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",TB 1000 Русское кино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/101/index.m3u8
 #EXTINF:0,Ностальгия
@@ -14,7 +14,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/104/index.m3u8
 #EXTINF:0,STV
 #EXTGRP:развлекательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/105/index.m3u8
-#EXTINF:0 tvg-link="http://www.scansat.info/logos/%D0%A0%D0%91%D0%9A-%D0%A2%D0%92.png",РБК-ТВ
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%A0%D0%91%D0%9A-%D0%A2%D0%92.png",РБК-ТВ
 #EXTGRP:новости
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/106/index.m3u8
 #EXTINF:0,Матч! Наш спорт
