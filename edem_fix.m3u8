@@ -164,7 +164,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/522/index.m3u8
 #EXTINF:0,Москва 24
 #EXTGRP:новости
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/523/index.m3u8
-#EXTINF:0 tvg-logo="http://vignette1.wikia.nocookie.net/tvpedia/images/f/f8/TV_XXI_2.svg/revision/latest?cb=20141219144040&path-prefix=ru",TV XXI
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/T%D0%92-21%D0%9C.png",TV XXI
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/525/index.m3u8
 #EXTINF:0,Телеканал Да Винчи
