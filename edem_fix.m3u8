@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/TB%201000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",TB 1000 Русское кино
+#EXTINF:0 tvg-logo="http://toplogos.ru/images/thumbs/preview-logo-tv1000-russkoe-kino.png",TB 1000 Русское кино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/101/index.m3u8
 #EXTINF:0,Ностальгия
