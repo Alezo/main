@@ -2,13 +2,13 @@
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/TB%201000%20%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",TB 1000 Русское кино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/101/index.m3u8
-#EXTINF:0,Ностальгия
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F.png",Ностальгия
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/102/index.m3u8
 #EXTINF:0,СТС Love
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/103/index.m3u8
-#EXTINF:0,ТНТ4
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%A2%D0%9D%D0%A24.png",ТНТ4
 #EXTGRP:развлекательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/104/index.m3u8
 #EXTINF:0,STV
@@ -50,7 +50,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/116/index.m3u8
 #EXTINF:0,Моя Планета
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/117/index.m3u8
-#EXTINF:0,Наука 2.0
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%B0%D1%83%D0%BA%D0%B0%202.0.png",Наука 2.0
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/118/index.m3u8
 #EXTINF:0,Outdoor Channel
@@ -257,7 +257,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/150/index.m3u8
 #EXTINF:0,Авто Плюс
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/151/index.m3u8
-#EXTINF:0,Кухня ТВ
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9A%D1%83%D1%85%D0%BD%D1%8F%20%D0%A2%D0%92.png",Кухня ТВ
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/152/index.m3u8
 #EXTINF:0,КВН ТВ
@@ -269,7 +269,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/547/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%98%D0%BB%D0%BB%D1%8E%D0%B7%D0%B8%D0%BE%D0%BD+.png",Иллюзион +
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/548/index.m3u8
-#EXTINF:0,Еврокино
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%95%D0%B2%D1%80%D0%BE%D0%BA%D0%B8%D0%BD%D0%BE.png",Еврокино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/549/index.m3u8
 #EXTINF:0,Fox Russia
@@ -284,13 +284,13 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/553/index.m3u8
 #EXTINF:0,MTV Hits
 #EXTGRP:музыка
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/153/index.m3u8
-#EXTINF:0,Дом Кино
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%94%D0%BE%D0%BC%20%D0%9A%D0%B8%D0%BD%D0%BE.png",Дом Кино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/154/index.m3u8
 #EXTINF:0,Музыка
 #EXTGRP:музыка
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/155/index.m3u8
-#EXTINF:0,Карусель
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9A%D0%B0%D1%80%D1%83%D1%81%D0%B5%D0%BB%D1%8C.png",Карусель
 #EXTGRP:детские
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/156/index.m3u8
 #EXTINF:0,Paramount Comedy Russia
