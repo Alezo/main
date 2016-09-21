@@ -26,7 +26,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/210/index.m3u8
 #EXTINF:0 tvg-id="4" tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%A2%D0%92%20HD.png",НТВ HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/213/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Nat%20Geo%20Wild%20HD.png",Nat Geo Wild HD
+#EXTINF:0 tvg-logo="http://www.ph4.ru/DL/LOGO/tv/ng_wild_hd.gif",Nat Geo Wild HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/216/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logos/Mezzo%20Live%20HD.png",Mezzo Live HD
