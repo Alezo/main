@@ -41,45 +41,12 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/132/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logos/Amc.png",AMC
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/557/index.m3u8
-#EXTINF:0 tvg-logo="https://divan.tv/img/global_img/channel_website/ua_522.png",Viasat Nature/History HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/203/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/MGM%20HD.png",MGM HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/209/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/RTG%20HD.png",RTG HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/210/index.m3u8
-#EXTINF:0 tvg-logo="http://www.ph4.ru/DL/LOGO/tv/ng_wild_hd.gif",Nat Geo Wild HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/216/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Mezzo%20Live%20HD.png",Mezzo Live HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/217/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Animal%20planet%20HD.png",Animal Planet HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/218/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logos/FOX%20HD.png",Fox HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/219/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/HD%20Life.png",HD Life
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/MGM%20HD.png",MGM HD
 #EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/226/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Discovery%20Channel%20HD.png",Discovery HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/227/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/National%20Geographic%20HD.png",National Geographic HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/230/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/History%20HD.png",History HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/231/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/TLC%20HD.png",TLC HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/232/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Travel%20Channel%20HD.png",Travel Channel HD
-#EXTGRP:HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/233/index.m3u8
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/209/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/5%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%BB.png",Пятый Канал
 #EXTGRP:новости
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/112/index.m3u8
@@ -176,6 +143,39 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/502/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%A0%D0%91%D0%9A-%D0%A2%D0%92.png",РБК
 #EXTGRP:новости
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/106/index.m3u8
+#EXTINF:0 tvg-logo="https://divan.tv/img/global_img/channel_website/ua_522.png",Viasat Nature/History HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/203/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/RTG%20HD.png",RTG HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/210/index.m3u8
+#EXTINF:0 tvg-logo="http://www.ph4.ru/DL/LOGO/tv/ng_wild_hd.gif",Nat Geo Wild HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/216/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Mezzo%20Live%20HD.png",Mezzo Live HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/217/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Animal%20planet%20HD.png",Animal Planet HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/218/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/HD%20Life.png",HD Life
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/226/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Discovery%20Channel%20HD.png",Discovery HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/227/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/National%20Geographic%20HD.png",National Geographic HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/230/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/History%20HD.png",History HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/231/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logo/TLC%20HD.png",TLC HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/232/index.m3u8
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Travel%20Channel%20HD.png",Travel Channel HD
+#EXTGRP:HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/233/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9.png",Первый образовательный
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/701/index.m3u8
