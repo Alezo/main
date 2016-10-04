@@ -1,4 +1,5 @@
 # main
-#EPGs
+#Links
+https://raw.githubusercontent.com/Alezo/main/master/edem_fix.m3u8
 http://api.torrent-tv.ru/ttv.xmltv.xml.gz
-http://www.teleguide.info/download/new3/xmltv.xml.gz
+
