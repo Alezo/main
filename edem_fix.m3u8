@@ -188,7 +188,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/701/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F.png",Ностальгия
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/102/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/CTC%20Love.png",СТС Love
+#EXTINF:0 tvg-id="ttv8247" tvg-logo="http://www.scansat.info/logo/CTC%20Love.png",СТС Love
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/103/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%A2%D0%9D%D0%A24.png",ТНТ4
