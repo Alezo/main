@@ -197,7 +197,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/104/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/STV.png",STV
 #EXTGRP:развлекательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/105/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9C%D0%B0%D1%82%D1%87%20%D0%BD%D0%B0%D1%88%20%D1%81%D0%BF%D0%BE%D1%80%D1%82.png",Матч! Наш Спорт
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9C%D0%B0%D1%82%D1%87%20%D0%BD%D0%B0%D1%88%20%D1%81%D0%BF%D0%BE%D1%80%D1%82.png",Матч! Наш спорт
 #EXTGRP:спорт
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/107/index.m3u8
 #EXTINF:0,Tiji
