@@ -87,16 +87,16 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/920/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%A2%D0%9D%D0%A2.png",ТНТ HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/237/index.m3u8
-#EXTINF:0,Мир HD
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9C%D0%B8%D1%80%20HD.png",Мир HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/235/index.m3u8
-#EXTINF:0,BRIDGE HD
+#EXTINF:0 tvg-logo="http://www.sputres.ru/images/2016/11/bridge_hd.jpg",BRIDGE HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/236/index.m3u8
-#EXTINF:0,1HD
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/1%20HD.png",1HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/238/index.m3u8
-#EXTINF:0,Bollywood HD
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Bollywood%20hd.png",Bollywood HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/239/index.m3u8
 
@@ -139,13 +139,13 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/906/index.m3u8
 #EXTINF:0 tvg-id="1570" tvg-logo="http://nukussat.clan.su/_ph/8/2/602869459.png",Русский детектив
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/907/index.m3u8
-#EXTINF:0,КИНОСВИДАНИЕ
+#EXTINF:0 tvg-id="462" tvg-logo="http://www.scansat.info/logos/%D0%9A%D0%B8%D0%BD%D0%BE%D1%81%D0%B2%D0%B8%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5.png",Киносвидание
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/728/index.m3u8
-#EXTINF:0,Русская Комедия
+#EXTINF:0 tvg-logo="http://tvnews.by/uploads/posts/2015-09/1442856226_komedia_-_stacked_logo.png",Русская Комедия
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/733/index.m3u8
-#EXTINF:0,Detektiv.tv
+#EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/00/05/64/lf2.png",Detektiv.tv
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/734/index.m3u8
 #EXTINF:0 tvg-logo="http://red-media.ru/wp-content/uploads/2016/08/RODNOE-KINO-3.png",Родное кино
@@ -193,25 +193,22 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/542/index.m3u8
 #EXTINF:0 tvg-logo="http://red-media.ru/wp-content/uploads/2016/08/NASHE-NOVOE-KINO-3.png",Наше Новое Кино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/517/index.m3u8
-#EXTINF:0,НСТ
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9D%D0%A1%D0%A2%D0%92.png",НСТ
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/726/index.m3u8
-#EXTINF:0,Bollywood
-#EXTGRP:кино
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/719/index.m3u8
-#EXTINF:0,Любимое Кино
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9D%D0%B0%D1%88%D0%B5%20%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%BE%D0%B5%20%D0%BA%D0%B8%D0%BD%D0%BE.png",Любимое Кино
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/722/index.m3u8
-#EXTINF:0,КИНО ТВ
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9A%D0%B8%D0%BD%D0%BE%20%D0%A2%D0%92.png",КИНО ТВ
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/732/index.m3u8
-#EXTINF:0,НТВ Сериал
+#EXTINF:0 tvg-logo="http://www.cableman.ru/sites/default/files/ntv_serial.png",НТВ Сериал
 #EXTGRP:кино
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/744/index.m3u8
-#EXTINF:0,НТВ Право
+#EXTINF:0 tvg-logo="http://www.cableman.ru/sites/default/files/ntv_pravo.png",НТВ Право
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/743/index.m3u8
-#EXTINF:0,НТВ Стиль
+#EXTINF:0 tvg-logo="http://www.cableman.ru/sites/default/files/ntv_stil.png",НТВ Стиль
 #EXTGRP:развлекательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/745/index.m3u8
 #EXTINF:0 tvg-id="137" tvg-logo="http://www.scansat.info/logo/%D0%9D%D0%A2%D0%92.png",НТВ
@@ -226,7 +223,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/705/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%A0%D0%91%D0%9A-%D0%A2%D0%92.png",РБК
 #EXTGRP:новости
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/106/index.m3u8
-#EXTINF:0,КРИК-ТВ
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9A%D0%A0%D0%98%D0%9A-%D0%A2%D0%B2.png",КРИК-ТВ
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/720/index.m3u8
 #EXTINF:0 tvg-id="765" tvg-logo="https://divan.tv/img/global_img/channel_website/ua_522.png",Viasat Nature/History HD
@@ -256,7 +253,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/230/index.m3u8
 #EXTINF:0 tvg-id="1394" tvg-logo="http://www.scansat.info/logos/History%20HD.png",History Channel HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/231/index.m3u8
-#EXTINF:0 tvg-logo="http://podryad.tv/upload/iblock/d0a/d0ac376dcdf39fe8fbd34c331f499a98.png",Travel+Adventure HD
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/Travel+Adventure.png",Travel+Adventure HD
 #EXTGRP:HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/908/index.m3u8
 #EXTINF:0 tvg-id="425" tvg-logo="http://www.scansat.info/logo/TLC%20HD.png",TLC HD
@@ -472,7 +469,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/156/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/Paramount%20Comedy.png",Paramount Comedy
 #EXTGRP:развлекательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/157/index.m3u8
-#EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%94%D0%9E%D0%9C%D0%90%D0%A8%D0%9D%D0%98%D0%95%20%D0%96%D0%98%D0%92%D0%9E%D0%A2%D0%9D%D0%AB%D0%95.png",Домашние животные
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%94%D0%BE%D0%BC%D0%B0%D1%88%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B8%D0%B2%D0%BE%D1%82%D0%BD%D1%8B%D0%B5.png",Домашние животные
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/158/index.m3u8
 #EXTINF:0 tvg-id="1332" tvg-logo="http://www.scansat.info/logos/%D0%9C%D1%83%D0%BB%D1%8C%D1%82.png",Мульт
@@ -481,7 +478,7 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/909/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9E%D1%85%D0%BE%D1%82%D0%B0%20%D0%B8%20%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B0.png",Охота и рыбалка
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/159/index.m3u8
-#EXTINF:0,Надежда
+#EXTINF:0 tvg-logo="http://adventist.ru/wp-content/uploads/2015/05/NADEZHDA-TV-logo-hopetv.png",Надежда
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/656/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9C%D0%B0%D1%82%D1%87%20%D1%84%D1%83%D1%82%D0%B1%D0%BE%D0%BB%203.png",Матч! Футбол 3 HD
@@ -532,37 +529,37 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/703/index.m3u8
 #EXTINF:0,Fine Living
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/735/index.m3u8
-#EXTINF:0,ЖИВИ!
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%96%D0%B8%D0%B2%D0%B8.png",ЖИВИ!
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/738/index.m3u8
-#EXTINF:0,Game Show
+#EXTINF:0 tvg-logo="http://cs.gsl.tv/skins/gameshow/images/logos/logo-footer.png",Game Show
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/736/index.m3u8
-#EXTINF:0,Морской
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE%D0%B9.png",Морской
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/742/index.m3u8
-#EXTINF:0,Страна
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B0.png",Страна
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/749/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logo/%D0%9C%D0%B0%D0%BC%D0%B0.png",Мама
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/704/index.m3u8
-#EXTINF:0,Тлум HD
+#EXTINF:0 tvg-logo="http://tv.atvc.ru/media/logo/channel/tlumhd.png",Тлум HD
 #EXTGRP:детские
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/240/index.m3u8
 #EXTINF:0,Мультик HD
 #EXTGRP:детские
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/921/index.m3u8
-#EXTINF:0,Санкт-Петербург
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3.png",Санкт-Петербург
 #EXTGRP:новости
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/715/index.m3u8
-#EXTINF:0,ТНТ MUSIC
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%A2%D0%9D%D0%A2%20music.png",ТНТ MUSIC
 #EXTGRP:музыка
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/710/index.m3u8
-#EXTINF:0,BRIDGE TV DANCE
+#EXTINF:0 tvg-logo="https://ntvplus.tv/files/image/00/05/09/6t7.png",BRIDGE TV DANCE
 #EXTGRP:музыка
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/711/index.m3u8
-#EXTINF:0,Царьград
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%A6%D0%B0%D1%80%D1%8C%D0%B3%D1%80%D0%B0%D0%B4.png",Царьград
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/718/index.m3u8
 #EXTINF:0,Boomerang
@@ -571,28 +568,28 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/723/index.m3u8
 #EXTINF:0,VH1 Classic
 #EXTGRP:музыка
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/724/index.m3u8
-#EXTINF:0,Бобёр
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%91%D0%BE%D0%B1%D1%91%D1%80%20%D0%A2%D0%92.png",Бобёр
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/725/index.m3u8
-#EXTINF:0,Сарафан
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%A1%D0%B0%D1%80%D0%B0%D1%84%D0%B0%D0%BD.png",Сарафан
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/748/index.m3u8
-#EXTINF:0,О!
+#EXTINF:0 tvg-logo="http://1pnz.ru/upload/file/publication/_%D0%9E!.jpg",О!
 #EXTGRP:детские
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/727/index.m3u8
 #EXTINF:0,NHK World TV
 #EXTGRP:другие
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/729/index.m3u8
-#EXTINF:0,Детский
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%94%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9.png",Детский
 #EXTGRP:детские
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/730/index.m3u8
-#EXTINF:0,В гостях у сказки
+#EXTINF:0 tvg-logo="https://mediastil.ru/wp-content/uploads/2017/03/logo-vgs.png",В гостях у сказки
 #EXTGRP:детские
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/737/index.m3u8
-#EXTINF:0,Зоопарк
+#EXTINF:0 tvg-logo="http://novouralsk-news.ru/wp-content/plugins/tvguide/logo/Zoo%D0%9F%D0%B0%D1%80%D0%BA.png",Зоопарк
 #EXTGRP:познавательные
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/731/index.m3u8
-#EXTINF:0,Наше ТВ
+#EXTINF:0 tvg-logo="http://www.scansat.info/logos/%D0%9D%D0%90%D0%A8%D0%95%20%D0%A2%D0%92.png",Наше ТВ
 #EXTGRP:музыка
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/721/index.m3u8
 #EXTINF:0 tvg-logo="http://www.scansat.info/logos/CBS%20Reality.png",CBS Reality
