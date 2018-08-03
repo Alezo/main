@@ -11,26 +11,12 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/201/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/203/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="984" tvg-logo="http://epg.it999.ru/img/984.png",Россия 1 HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/205/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png",Матч! Футбол 3 HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/206/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png",Матч! Арена HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/207/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2004" tvg-logo="http://epg.it999.ru/img/2004.png",Viasat Sport HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/208/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="934" tvg-logo="http://epg.it999.ru/img/934.png",MGM HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/209/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="648" tvg-logo="http://epg.it999.ru/img/648.png",RTG HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/210/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2 HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/211/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2017" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/212/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2001" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/213/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1679" tvg-logo="http://epg.it999.ru/img/1679.png",Конный Мир HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/214/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png",Телеканал КХЛ HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/215/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="807" tvg-logo="http://epg.it999.ru/img/807.png",Nat Geo Wild HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/216/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="801" tvg-logo="http://epg.it999.ru/img/801.png",Mezzo Live HD
@@ -39,24 +25,14 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/217/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/218/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1031" tvg-logo="http://epg.it999.ru/img/1031.png",Fox HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/219/index.m3u8
-#EXTINF:0 group-title="HD",МАТЧ ПРЕМЬЕР HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/220/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="382" tvg-logo="http://epg.it999.ru/img/382.png",MTV Live HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/221/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1043" tvg-logo="http://epg.it999.ru/img/1043.png",Матч! Футбол 1 HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/222/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="423" tvg-logo="http://epg.it999.ru/img/423.png",Nickelodeon HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/223/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="566" tvg-logo="http://epg.it999.ru/img/566.png",КИНОПРЕМЬЕРА HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/224/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2002" tvg-logo="http://epg.it999.ru/img/2002.png",Матч! Игра HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/225/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="415" tvg-logo="http://epg.it999.ru/img/415.png",HD Life
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/226/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1612" tvg-logo="http://epg.it999.ru/img/1612.png",Discovery Channel HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/227/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="560" tvg-logo="http://epg.it999.ru/img/560.png",Eurosport 1 HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/228/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1372" tvg-logo="http://epg.it999.ru/img/1372.png",Amedia Premium HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/229/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="389" tvg-logo="http://epg.it999.ru/img/389.png",National Geographic HD
@@ -67,8 +43,6 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/231/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/232/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="124" tvg-logo="http://epg.it999.ru/img/124.png",Travel Channel HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/233/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="850" tvg-logo="http://epg.it999.ru/img/850.png",Eurosport 2 North-East HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/234/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1588" tvg-logo="http://epg.it999.ru/img/1588.png",Остросюжетное HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/904/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2020" tvg-logo="http://epg.it999.ru/img/2020.png",Дом Кино Премиум HD
@@ -81,18 +55,12 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/912/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/914/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2018" tvg-logo="http://epg.it999.ru/img/2018.png",Наш Детектив HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/915/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1681" tvg-logo="http://epg.it999.ru/img/1681.png",Охотник и рыболов HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/917/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="930" tvg-logo="http://epg.it999.ru/img/930.png",Еда HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/918/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2023" tvg-logo="http://epg.it999.ru/img/2023.png",Мир HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/235/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2022" tvg-logo="http://epg.it999.ru/img/2022.png",BRIDGE HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/236/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1767" tvg-logo="http://epg.it999.ru/img/1767.png",ТНТ HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/237/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="1329" tvg-logo="http://epg.it999.ru/img/1329.png",1HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/238/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="1395" tvg-logo="http://epg.it999.ru/img/1395.png",Bollywood HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/239/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2139" tvg-logo="http://epg.it999.ru/img/2139.png",Теледом
@@ -103,18 +71,12 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/975/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/986/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2177" tvg-logo="http://epg.it999.ru/img/2177.png",Travel HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1043/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2189" tvg-logo="http://epg.it999.ru/img/2189.png",Футбол 1 HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/800/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2190" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/801/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2057" tvg-logo="http://epg.it999.ru/img/2057.png",Food Network
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/819/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2191" tvg-logo="http://epg.it999.ru/img/2191.png",Gametoon
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/820/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2192" tvg-logo="http://epg.it999.ru/img/2192.png",Nautical Channel
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/823/index.m3u8
-#EXTINF:0 group-title="HD" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png",XSPORT HD
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/996/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2244" tvg-logo="http://epg.it999.ru/img/2244.png",Fashiontv EN HD
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1011/index.m3u8
 #EXTINF:0 group-title="HD" tvg-id="2229" tvg-logo="http://epg.it999.ru/img/2229.png",Epic Drama
@@ -357,40 +319,6 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1062/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1065/index.m3u8
 #EXTINF:0 group-title="другие" tvg-id="2175" tvg-logo="http://epg.it999.ru/img/2175.png",ILand
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1067/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="681" tvg-logo="http://epg.it999.ru/img/681.png",Europa Plus TV
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/115/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="897" tvg-logo="http://epg.it999.ru/img/897.png",МУЗ
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/116/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="591" tvg-logo="http://epg.it999.ru/img/591.png",BRIDGE TV Русский Хит
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/120/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="151" tvg-logo="http://epg.it999.ru/img/151.png",Bridge TV
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/122/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/142/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/153/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="715" tvg-logo="http://epg.it999.ru/img/715.png",Музыка
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/155/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="491" tvg-logo="http://epg.it999.ru/img/491.png",VH1 European
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/536/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="1722" tvg-logo="http://epg.it999.ru/img/1722.png",MTV Dance
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/558/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="575" tvg-logo="http://epg.it999.ru/img/575.png",Mezzo
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/707/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="680" tvg-logo="http://epg.it999.ru/img/680.png",ТНТ MUSIC
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/710/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="2024" tvg-logo="http://epg.it999.ru/img/2024.png",BRIDGE TV DANCE
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/711/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="1680" tvg-logo="http://epg.it999.ru/img/1680.png",Наше ТВ
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/721/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="156" tvg-logo="http://epg.it999.ru/img/156.png",VH1 Classic
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/724/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="2184" tvg-logo="http://epg.it999.ru/img/2184.png",360 Tune Box
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/810/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="2185" tvg-logo="http://epg.it999.ru/img/2185.png",Kino Polska Muzyka
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/822/index.m3u8
-#EXTINF:0 group-title="музыка" tvg-id="2235" tvg-logo="http://epg.it999.ru/img/2235.png",MTV Rocks
-http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1038/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="1036" tvg-logo="http://epg.it999.ru/img/1036.png",История
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/111/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="675" tvg-logo="http://epg.it999.ru/img/675.png",Моя Планета
@@ -469,6 +397,40 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1033/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1037/index.m3u8
 #EXTINF:0 group-title="познавательные" tvg-id="2238" tvg-logo="http://epg.it999.ru/img/2238.png",Travel Channel EN
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1070/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="681" tvg-logo="http://epg.it999.ru/img/681.png",Europa Plus TV
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/115/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="897" tvg-logo="http://epg.it999.ru/img/897.png",МУЗ
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/116/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="591" tvg-logo="http://epg.it999.ru/img/591.png",BRIDGE TV Русский Хит
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/120/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="151" tvg-logo="http://epg.it999.ru/img/151.png",Bridge TV
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/122/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="1021" tvg-logo="http://epg.it999.ru/img/1021.png",MTV
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/142/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="1723" tvg-logo="http://epg.it999.ru/img/1723.png",MTV Hits
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/153/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="715" tvg-logo="http://epg.it999.ru/img/715.png",Музыка
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/155/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="491" tvg-logo="http://epg.it999.ru/img/491.png",VH1 European
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/536/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="1722" tvg-logo="http://epg.it999.ru/img/1722.png",MTV Dance
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/558/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="575" tvg-logo="http://epg.it999.ru/img/575.png",Mezzo
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/707/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="680" tvg-logo="http://epg.it999.ru/img/680.png",ТНТ MUSIC
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/710/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="2024" tvg-logo="http://epg.it999.ru/img/2024.png",BRIDGE TV DANCE
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/711/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="1680" tvg-logo="http://epg.it999.ru/img/1680.png",Наше ТВ
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/721/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="156" tvg-logo="http://epg.it999.ru/img/156.png",VH1 Classic
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/724/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="2184" tvg-logo="http://epg.it999.ru/img/2184.png",360 Tune Box
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/810/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="2185" tvg-logo="http://epg.it999.ru/img/2185.png",Kino Polska Muzyka
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/822/index.m3u8
+#EXTINF:0 group-title="музыка" tvg-id="2235" tvg-logo="http://epg.it999.ru/img/2235.png",MTV Rocks
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/1038/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="555" tvg-logo="http://epg.it999.ru/img/555.png",Tiji TV
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/108/index.m3u8
 #EXTINF:0 group-title="детские" tvg-id="810" tvg-logo="http://epg.it999.ru/img/810.png",Gulli
@@ -563,3 +525,41 @@ http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/901/index.m3u8
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/902/index.m3u8
 #EXTINF:0 group-title="USA",CBS New York
 http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/903/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2005" tvg-logo="http://epg.it999.ru/img/2005.png",Матч! Футбол 3 HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/206/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2003" tvg-logo="http://epg.it999.ru/img/2003.png",Матч! Арена HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/207/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2004" tvg-logo="http://epg.it999.ru/img/2004.png",Viasat Sport HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/208/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="1042" tvg-logo="http://epg.it999.ru/img/1042.png",Матч! Футбол 2 HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/211/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2017" tvg-logo="http://epg.it999.ru/img/2017.png",Матч! HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/212/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="1679" tvg-logo="http://epg.it999.ru/img/1679.png",Конный Мир HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/214/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="1038" tvg-logo="http://epg.it999.ru/img/1038.png",Телеканал КХЛ HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/215/index.m3u8
+#EXTINF:0 group-title="HD",МАТЧ ПРЕМЬЕР HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/220/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="382" tvg-logo="http://epg.it999.ru/img/382.png",MTV Live HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/221/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="1043" tvg-logo="http://epg.it999.ru/img/1043.png",Матч! Футбол 1 HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/222/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2002" tvg-logo="http://epg.it999.ru/img/2002.png",Матч! Игра HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/225/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="560" tvg-logo="http://epg.it999.ru/img/560.png",Eurosport 1 HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/228/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="850" tvg-logo="http://epg.it999.ru/img/850.png",Eurosport 2 North-East HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/234/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="1681" tvg-logo="http://epg.it999.ru/img/1681.png",Охотник и рыболов HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/917/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2022" tvg-logo="http://epg.it999.ru/img/2022.png",BRIDGE HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/236/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="1329" tvg-logo="http://epg.it999.ru/img/1329.png",1HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/238/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2189" tvg-logo="http://epg.it999.ru/img/2189.png",Футбол 1 HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/800/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2190" tvg-logo="http://epg.it999.ru/img/2190.png",Футбол 2 HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/801/index.m3u8
+#EXTINF:0 group-title="HD" tvg-id="2243" tvg-logo="http://epg.it999.ru/img/2243.png",XSPORT HD
+http://solaire.iptvbot.ru/iptv/MUTWWE2HXW26GG/996/index.m3u8
